@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ADMINRG-5TR1J4C" name="git.Git_Testing" tests="1" failures="0" timestamp="27 Dec 2018 05:24:55 GMT" time="13.559" errors="0">
+  <testcase name="f" time="3.84" classname="git.Git_Testing"/>
+</testsuite>
